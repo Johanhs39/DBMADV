@@ -2,4 +2,4 @@
 ## overskrift 2
 ### overskrift 3
 #### brødtekst
-Database Management and Data Visualization 
+Database Management and Data Visualization, gg
