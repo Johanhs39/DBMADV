@@ -1,2 +1,2 @@
 # DBMADV
-Data Basemanagement and Data Visualization 
+Database Management and Data Visualization 
